@@ -1,3 +1,2 @@
-This is my first Git practical 
-Git is used for version control
+this is my first it practical
 Branch work done
